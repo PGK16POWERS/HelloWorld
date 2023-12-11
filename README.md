@@ -1,2 +1,2 @@
 # HelloWorld
-Basic hello world program written in Java
+Basic Hello World program written and compiled in Java.
